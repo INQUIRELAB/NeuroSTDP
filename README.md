@@ -46,7 +46,7 @@ code/
 
 manuscript.pdf     current build (30 pp)
 requirements.txt   Python dependencies
-LICENSE            MIT
+LICENSE            License scope for code and research materials
 ```
 
 ## ⚙️ Installation
@@ -75,4 +75,8 @@ Source datasets (FRED, EV-UAV) are publicly available from their original public
 
 ## 📜 License
 
-This project is released under the **MIT License**. See `LICENSE` for details. Source datasets remain under their original licence terms.
+This project is released under the **PolyForm Noncommercial License 1.0.0**. See `LICENSE` for details. Source datasets remain under their original licence terms.
+
+## License scope
+
+Original INQUIRE Lab code is licensed under PolyForm Noncommercial License 1.0.0. Original INQUIRE Lab datasets, figures, and documentation are licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for scope and the full license texts. Materials from other rights holders retain their original terms.
